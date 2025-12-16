@@ -17,15 +17,12 @@ Interactive dashboard design
 Insight-driven visualization
 
 4. Tools Used
-Microsoft Power BI
-DAX
+Microsoft Power BI DAX
 Data Visualization & BI Concepts
+DAX
 
-5. Purpose
+6. Purpose
 Developed for academic learning and professional portfolio demonstration, showcasing practical BI and data analytics capabilities relevant to analyst and reporting roles.
+
 **Author**
 ISHFAQ AHMAD
-
-DAX
-
-Data Visualization & BI Concepts
