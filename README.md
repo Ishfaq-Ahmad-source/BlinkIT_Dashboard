@@ -23,6 +23,7 @@ DAX
 
 6. Purpose: 
 Developed for academic learning and professional portfolio demonstration, showcasing practical BI and data analytics capabilities relevant to analyst and reporting roles.
+
 Dashboard Review: https://github.com/Ishfaq-Ahmad-source/BlinkIT_Dashboard/blob/main/Project.png
 
 **Author**: 
